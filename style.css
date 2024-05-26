@@ -67,7 +67,7 @@ main {
   background-color: #6200ee;
   color: white;
   border: none;
-  border-radius: 24px;
+  border-radius: 50%;
   font-size: 30px;
   cursor: pointer;
 }
